@@ -95,6 +95,20 @@ export default defineConfig({
               ],
             },
             {
+              path: '/custom',
+              icon: 'form',
+              name: 'custom',
+              routes: [
+                {
+                  name: 'todo-list',
+                  icon: 'smile',
+                  path: '/custom/todo-list',
+                  component: './custom/todo-list',
+                  // component: './form/basic-form',
+                },
+              ],
+            },
+            {
               path: '/form',
               icon: 'form',
               name: 'form',

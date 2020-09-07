@@ -14,6 +14,8 @@ export default {
   'menu.exception.403': '403',
   'menu.exception.404': '404',
   'menu.exception.500': '500',
+  'menu.custom': '自定义练习',
+  'menu.custom.todo-list': '待办事项列表',
   'menu.form': '表单页',
   'menu.form.basic-form': '基础表单',
   'menu.form.step-form': '分步表单',

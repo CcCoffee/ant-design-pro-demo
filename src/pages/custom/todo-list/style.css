@@ -1,0 +1,12 @@
+.todo {
+  margin: 300px auto;
+  width: 500px;
+}
+.confirm-button {
+  width: 100%;
+}
+.todoList {
+  margin-top: 10px;
+  font-size: xx-large;
+  background-color: white;
+}
